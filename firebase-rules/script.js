@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText=rules.value.includes('allow')?'Valid rules':'Check rules';}
